@@ -27,6 +27,7 @@ if (!setting.exceptionurl) {
 var exception = exception();
 function showurl(datajson){
 
+
 	var check = false;
 	var no = 0;
 	var exceptionlength = exception.length;
